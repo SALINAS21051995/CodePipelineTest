@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3ue4vHHNfgqDBLS8b3ElBG+RdNZnVSmzI17ReCt0HiC025pX0NE7p/eRhcGiTc6frQUw1uq1GHER5Q3kDiN2Q==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.0/amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

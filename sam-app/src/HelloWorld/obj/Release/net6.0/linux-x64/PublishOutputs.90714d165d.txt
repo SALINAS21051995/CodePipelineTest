@@ -1,0 +1,7 @@
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.deps.json
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.runtimeconfig.json
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.pdb
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll

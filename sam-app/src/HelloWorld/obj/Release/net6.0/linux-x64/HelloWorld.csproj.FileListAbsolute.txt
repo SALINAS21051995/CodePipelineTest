@@ -1,0 +1,14 @@
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.deps.json
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.runtimeconfig.json
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.pdb
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.AssemblyReference.cache
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfoInputs.cache
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfo.cs
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/refint/HelloWorld.dll
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.pdb
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.genruntimeconfig.cache
+/Users/mac/Projects/sam-api-lambda-tes/sam-api-test/sam-app/src/HelloWorld/obj/Release/net6.0/linux-x64/ref/HelloWorld.dll
